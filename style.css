@@ -8,15 +8,15 @@ h2{
     border-radius: 10px 10px 0 0;
 }
 hr{
-    margin: 10px -50px;
+    margin: 10%;
     border: 0;
     border-top: 1px solid #ccc;
     margin-bottom: 40px;
 }
 div.container{
-    width: 900px;
-    height: 610px;
-    margin:35px auto;
+    width: 50%;
+    height: 50%;
+    margin: auto;
     font-family: 'Raleway', sans-serif;
 }
 div.main{
